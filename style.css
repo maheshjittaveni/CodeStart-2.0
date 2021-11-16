@@ -1,0 +1,64 @@
+/* h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 2px black;
+}
+p{
+    text-indent: 50px;
+    line-height: 3;
+    word-spacing: 5px;
+} */
+
+.headings{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 2px black;
+}
+
+.paragraph{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 2px black;
+}
+.paragraph-1{
+    color: pink;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+  
+}
+.paragraph-2{
+    color:yellow;
+    
+}
+.paragraph-3{
+    color: red;
+   
+}
+
+.border{
+border-style: solid;
+border-color: green;
+border-width: 10px;
+}
+.shorthand-border{
+    border: 5px solid red;
+}
+.rounded-border{
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    /* margin: 50px; */
+    margin-top: 40px;
+    margin-left: 50px;
+
+}

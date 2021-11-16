@@ -1,0 +1,17 @@
+.blog-1{
+    height:250px;
+    width: 500px;
+    background-color: blueviolet;
+}
+
+.blog-2{
+    height:30vh;
+    width: 50vw;
+    background-color:burlywood;
+}
+
+.blog{
+    height:50%;
+    width: 50%;
+    background-color:chocolate;
+}

@@ -1,0 +1,130 @@
+.column-1{
+   
+   height: 32vh;
+   display: flex;
+   flex-direction: row;
+}
+.column-2{
+    
+    height: 25vh;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.column-3{
+    
+    height: 32vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.image{
+    
+    width:22%;
+    display: flex;
+    flex-direction: row;
+}
+.heading-text{
+    
+    display: flex;
+    flex-direction: column;
+}
+.heading-text1{
+    
+    height:50%;
+}
+.heading-text2{
+    
+    height:40%;
+}
+.heading{
+    
+    width:88%;
+}
+.main-heading{
+    
+    height: 40%;
+    display: flex;
+    flex-direction: row;
+}
+.sub-heading{
+    
+    height: 57%;
+}
+.heading-image{
+    
+    width: 10%;
+}
+.heading-text{
+   
+    width: 75%;
+}
+.heading-date{
+
+    width: 15%;
+}
+.sub-image{
+    
+    width:28%;
+}
+.image-content{
+    
+    height: 60%;
+}
+.image-heading{
+    
+    height: 20%;
+}
+.image-sub-heading{
+    
+    height: 15%;
+}
+.image1{
+    
+    height: 120px;
+    width: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+.paragraph{
+    
+    color: black;
+    text-align: left;
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-style: normal;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Prompt', sans-serif;
+  
+}
+.sheading{
+    
+    color: black;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: monospace;
+}
+.iheading{
+    
+    color: black;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.round-border{
+    
+    border-radius: 90px;
+    height:80px;
+    width:90px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.column-1image{
+    height:200px;
+    width:220px;
+    margin-left: auto;
+    margin-right: auto;
+}
