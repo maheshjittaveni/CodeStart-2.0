@@ -2,50 +2,61 @@ body{
     background-color: gray;
 }
 .column-1{
-    border:2px solid red;
-    height: 10vh;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    height: 5vh;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 .column-2{
-    border:2px solid red;
+    
+    height: 10vh;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.column-3{
+    
     height: 10vh;
     margin-top: 10px;
     margin-bottom: 10px;
     display: flex;
     flex-direction: row;
 }
-.column-3{
-    border:2px solid red;
-    height: 10vh;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
 .column-4{
-    border:2px solid red;
+    
     height: 10vh;
     margin-top: 10px;
     margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
 }
 .column-5{
-    border:2px solid red;
+    
     height: 25vh;
     margin-top: 10px;
     margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
 }
 .column-6{
-    border:2px solid red;
+    
     height: 10vh;
     margin-top: 10px;
     margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
 }
 .cl2-div1{
-    border:2px solid red;
-    height: 95%;
-    width: 20%;
+    
+    height: 80%;
+    width: 10%;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
 }
 .cl2-div2{
-    border:2px solid red;
+    
     height: 95%;
     width: 50%
 }
@@ -54,8 +65,111 @@ body{
     width: 500px;
 }
 .cl2-lable{
-  text-justify: auto;
+  text-align:center;
   text-indent: 10px;
   font-size: 20px;
-
+}
+h2{
+    text-align: left;
+}
+.cl3-div1{
+    
+    height: 80%;
+    width: 10%;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.cl3-div2{
+    
+    height: 95%;
+    width: 50%
+}
+.textEmail{
+    height: 50px;
+    width: 500px;
+}
+.cl3-lable{
+    text-align:center;
+    text-indent: 10px;
+    font-size: 20px;
+  }
+.cl4-div1{
+    
+    height: 80%;
+    width: 10%;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.cl4-lable1{
+    text-align:center;
+    text-indent: 10px;
+    font-size: 20px;
+  }
+.cl4-lable2{
+    text-align:center;
+    text-indent: 10px;
+    font-size: 20px;
+  }
+.cl4-div2{
+    
+    height: 95%;
+    width: 50%
+  }
+.textPhone{
+    height: 50px;
+    width: 500px;
+}
+.cl5-div1{
+    
+    height: 80%;
+    width: 10%;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.cl5-lable{
+    text-align:center;
+    text-indent: 10px;
+    font-size: 20px;
+  }
+.cl5-div2{
+    
+    height: 95%;
+    width: 50%
+  }
+.txtArea{
+    height: 150px;
+    width: 500px;
+}
+.cl6-div1{
+    
+    height: 80%;
+    width: 30%;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.cl6-div2{
+    
+    height: 95%;
+    width: 50%
+}
+.btnClear{
+    background-color: lightblue;
+    height: 50px;
+    width: 100px;
+}
+.btnSubmit{
+    background-color: lightblue;
+    height: 50px;
+    width: 100px;
+}
+.h3{
+    text-align:center;
 }
