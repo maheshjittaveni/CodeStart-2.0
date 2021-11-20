@@ -1,0 +1,215 @@
+body{
+    background-color: blue;
+}
+form{
+    background-color: cornsilk;
+}
+.column-1{
+    
+    height: 18vh;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.column-1-div1{
+    
+    height: 85%;
+    width: 35%;
+}
+.column-1-div2{
+    
+    height: 85%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+.sign-up{
+    text-align:left;
+}
+.column-1-div2-div1{
+    
+    height: 50%;
+    width: 100%;
+}
+.column-1-div2-div2{
+    
+    height: 50%;
+    width: 100%;
+}
+.column-2{
+    
+    height: 5vh;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.column-2-div1{
+    
+    height: 85%;
+    width: 35%;
+}
+.column-2-div2{
+    
+    height: 85%;
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+}
+.column-2-div2-div1{
+    
+    height: 100%;
+    width: 50%;
+}
+.column-2-div2-div1{
+    
+    height: 100%;
+    width: 50%;
+}
+.textFname{
+    
+    height: 90%;
+    width: 90%;
+}
+.textLname{
+    
+    height: 90%;
+    width: 130%;
+}
+.column-3{
+    
+    height: 5vh;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.column-3-div1{
+    
+    height: 85%;
+    width: 35%;
+}
+.column-3-div2{
+   
+    height: 85%;
+    width: 30%;
+}
+.textEmail{
+    
+    height: 95%;
+    width: 99%;
+}
+.column-4{
+    
+    height: 5vh;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.column-4-div1{
+    
+    height: 85%;
+    width: 35%;
+}
+.column-4-div2{
+    
+    height: 85%;
+    width: 30%;
+}
+.textPassword{
+   
+    height: 95%;
+    width: 99%;
+}
+.column-5{
+    
+    height: 5vh;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.column-5-div1{
+    
+    height: 85%;
+    width: 35%;
+}
+.column-5-div2{
+    
+    height: 85%;
+    width: 30%;
+}
+.textConfirmPwd{
+    
+    height: 95%;
+    width: 99%;
+}
+.column-6{
+    
+    height: 5vh;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.column-6-div1{
+    
+    height: 85%;
+    width: 35%;
+}
+.column-6-div2{
+    
+    height: 85%;
+    width: 30%;
+}
+.a-1{
+    color:blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+.column-7{
+    
+    height: 5vh;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.column-7-div1{
+    
+    height: 85%;
+    width: 35%;
+}
+.column-7-div2{
+    
+    height: 85%;
+    width: 30%;
+}
+.btnSubmit{
+    height: 90%;
+    width: 30%;
+    background-color: blue;
+}
+.column-9{
+    
+    height: 10vh;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.column-9-div1{
+    
+    height: 85%;
+    width: 35%;
+}
+.column-9-div2{
+    
+    height: 85%;
+    width: 30%;
+}
+.column-9-hading{
+    text-align: center;
+}
