@@ -32,10 +32,10 @@ console.log(empty_data);
 }*/
 
 var student_information = {
-  first_name : "Karthick",
-  last_name : "Kumar",
+  first_name : "Mahesh",
+  last_name : "Jittaveni",
   age : 27,
-  roll_number : 478541686,
+  roll_number : 546,
   score : 450,
   grade : "A+"
 }
@@ -64,7 +64,7 @@ console.log(student_information)
 var total_marks = [68, 78, 57, 34, 51, 44];
 console.log(total_marks);
 
-var name_list = ["Karthick", "Kumar", "Ankit", "Harsh", "Yuvaraj"];
+var name_list = ["Mahesh", "Kumar", "Ankit", "Harsh", "Yuvaraj"];
 console.log(name_list);
 
 var record_list = [
